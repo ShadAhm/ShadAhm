@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey guys, I'm Shad 🧔
 
- I believe all software (internal or external) should be created with the user first-in-mind, providing sufficient navigation, and should be designed with complexities that requires training as little as possible.
+10+ years in software development. Currently working in product ownership and solutions architecture. I love making software.
 
 <!--
 - 🔭 I’m currently working on ...
